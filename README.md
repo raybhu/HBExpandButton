@@ -1,12 +1,11 @@
 # HBExpandButton
-
+This is a library which provides a button that can pop-up and shrink more another small button.
 ## 简介
 一个可以沿扇形弹出、收缩若干子按钮的按钮。
 
-## 使用说明
-创建一个**HBExpandButton**的实例对象，可以像使用UIButton一样随便设置样式大小等。
-创建几个弹出子按钮加入**HBExpandButton**对象的属性*subBtnArray*中，当前子按钮形状默认为圆形。
-设置弹出弧度半径通过为**HBExpandButton**的*pushRadius*属性赋值，默认半径为50。
+## Manual
+HBExpandButton: Setting style and size just like using the UIButton.
+HBExpandButton.subBtnArray: Setting shape, and round by default.
+HBExpandButton.pushRadius: Setting the radius of pop-up curvature, and 50 by default.
 
-## 结语
-目前就用得上这些，以后有需求再加....
+
