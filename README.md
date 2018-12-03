@@ -1,5 +1,5 @@
 # HBExpandButton
-This is a library which provides a button that can pop-up and shrink more another small button.
+This is a library which provides a button that can fan out other sub buttons.
 
 ## Manual
 HBExpandButton: Setting style and size just like using the UIButton.
